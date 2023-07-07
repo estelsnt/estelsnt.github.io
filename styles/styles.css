@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+body {
+    background-color: #524d4d;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container .header {
+    height: 25px;
+    background-color: #f0842c;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-right: 20px;
+    color: #fff;
+}
+
+.container .content h1 {
+    font-size: 3em;
+    color: #fff;
+    margin: 20px;
+}
