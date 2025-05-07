@@ -1,9 +1,10 @@
+import Routing from "./pages/Routing";
 
 function App() {
 
   return (
     <>
-      <h1>hello world</h1>
+      <Routing />
     </>
   );
 }
