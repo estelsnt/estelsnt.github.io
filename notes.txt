@@ -1,8 +1,0 @@
-name
-address
-email
-
-skills
-educational background
-experience
-projects
